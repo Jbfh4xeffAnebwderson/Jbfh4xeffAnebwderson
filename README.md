@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jbfh4xeffAnebwderson
 
-<!--
-**Jbfh4xeffAnebwderson/Jbfh4xeffAnebwderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥊 🏏 A developer in startup culture 🥊 🏏
 
-Here are some ideas to get you started:
+## About Me
+🥁 🥋 A geek in agile methodology 🥁 🥋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚀 🎯 🚣 Enthusiastic about system programming 🚀 🎯 🚣
+
+### Fun Facts
+🎮 🎣 🏸 🎮 Always learning about project management 🎮 🎣 🏸 🎮
+
+---
+🎽 🌟 🎬 🎣 🏑 Thanks for visiting my profile! 🎬 🏒 🎭 🏊 🎽
